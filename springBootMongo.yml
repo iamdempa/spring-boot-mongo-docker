@@ -5,7 +5,7 @@ metadata:
     name: springboot
   name: spring-controller
 spec:
-  replicas: 50
+  replicas: 30
   template:
     metadata:
       labels:
